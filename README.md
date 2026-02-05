@@ -26,5 +26,6 @@ Interactive tool that analyzes resume fit against job descriptions using Grok AP
 ## Evaluation
 Tested on 4 cases → average score difference 8.8 points vs manual judgment.
 
-## Deployed version
-[Live demo link] (add after step 3)
+## Live Demo
+[Open Resume Matcher App](https://mariaalexanderx-ai-resume-analyzer-app-a7tafp.streamlit.app/)
+
